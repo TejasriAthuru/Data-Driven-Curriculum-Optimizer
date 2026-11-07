@@ -1,0 +1,86 @@
+student_id,student_name,course_id,risk_status,reason,suggested_action
+CSE001,Student CSE001,CSE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE003,Student CSE003,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE003,Student CSE003,CSE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE003,Student CSE003,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE005,Student CSE005,CSE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE006,Student CSE006,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE006,Student CSE006,CSE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE006,Student CSE006,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE007,Student CSE007,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE007,Student CSE007,CSE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE007,Student CSE007,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE009,Student CSE009,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE009,Student CSE009,CSE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE009,Student CSE009,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE013,Student CSE013,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE013,Student CSE013,CSE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE013,Student CSE013,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE015,Student CSE015,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE015,Student CSE015,CSE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE015,Student CSE015,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE016,Student CSE016,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE016,Student CSE016,CSE102,At Risk,Attendance below threshold; Assessment performance below threshold,Discuss attendance barriers and support options; Offer academic mentoring and revision support
+CSE016,Student CSE016,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE017,Student CSE017,CSE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE017,Student CSE017,CSE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE017,Student CSE017,CSE103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+CSE020,Student CSE020,CSE101,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE020,Student CSE020,CSE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+CSE020,Student CSE020,CSE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID003,Student AID003,AID101,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID003,Student AID003,AID102,At Risk,Attendance below threshold,Discuss attendance barriers and support options
+AID003,Student AID003,AID103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID006,Student AID006,AID101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID006,Student AID006,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID006,Student AID006,AID103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID007,Student AID007,AID103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID008,Student AID008,AID101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID008,Student AID008,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID008,Student AID008,AID103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID009,Student AID009,AID101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID009,Student AID009,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID009,Student AID009,AID103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID012,Student AID012,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID012,Student AID012,AID103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID013,Student AID013,AID101,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID013,Student AID013,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID013,Student AID013,AID103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID014,Student AID014,AID101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID014,Student AID014,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID014,Student AID014,AID103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID016,Student AID016,AID101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID016,Student AID016,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID016,Student AID016,AID103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+AID018,Student AID018,AID101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID018,Student AID018,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID018,Student AID018,AID103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID020,Student AID020,AID101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID020,Student AID020,AID102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+AID020,Student AID020,AID103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE001,Student ECE001,ECE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE001,Student ECE001,ECE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE001,Student ECE001,ECE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE002,Student ECE002,ECE101,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE002,Student ECE002,ECE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE002,Student ECE002,ECE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE003,Student ECE003,ECE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE003,Student ECE003,ECE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE003,Student ECE003,ECE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE006,Student ECE006,ECE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE006,Student ECE006,ECE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE006,Student ECE006,ECE103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE007,Student ECE007,ECE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE007,Student ECE007,ECE103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE009,Student ECE009,ECE101,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE009,Student ECE009,ECE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE009,Student ECE009,ECE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE012,Student ECE012,ECE102,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE012,Student ECE012,ECE103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE013,Student ECE013,ECE103,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE017,Student ECE017,ECE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE017,Student ECE017,ECE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE017,Student ECE017,ECE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE018,Student ECE018,ECE101,Watchlist,Indicator is close to a configured threshold,Review the student's recent progress
+ECE018,Student ECE018,ECE102,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support
+ECE018,Student ECE018,ECE103,At Risk,Assessment performance below threshold,Offer academic mentoring and revision support

@@ -1,0 +1,19 @@
+﻿lo_id,lo_code,lo_description,target_attainment,average_attainment,attainment_gap,attainment_status
+AID101_LO1,LO1,Understand the fundamental concepts of Machine Learning.,70.0,84.0,-14.0,Meets Target
+AID101_LO2,LO2,Apply the concepts of Machine Learning to solve academic problems.,70.0,80.0,-10.0,Meets Target
+AID102_LO1,LO1,Understand the fundamental concepts of Data Analytics.,70.0,88.0,-18.0,Meets Target
+AID102_LO2,LO2,Apply the concepts of Data Analytics to solve academic problems.,70.0,84.0,-14.0,Meets Target
+AID103_LO1,LO1,Understand the fundamental concepts of Artificial Intelligence.,70.0,75.0,-5.0,Meets Target
+AID103_LO2,LO2,Apply the concepts of Artificial Intelligence to solve academic problems.,70.0,71.0,-1.0,Meets Target
+CSE101_LO1,LO1,Understand the fundamental concepts of Data Structures.,70.0,82.0,-12.0,Meets Target
+CSE101_LO2,LO2,Apply the concepts of Data Structures to solve academic problems.,70.0,78.0,-8.0,Meets Target
+CSE102_LO1,LO1,Understand the fundamental concepts of Database Management Systems.,70.0,76.0,-6.0,Meets Target
+CSE102_LO2,LO2,Apply the concepts of Database Management Systems to solve academic problems.,70.0,72.0,-2.0,Meets Target
+CSE103_LO1,LO1,Understand the fundamental concepts of Computer Networks.,70.0,70.0,0.0,Meets Target
+CSE103_LO2,LO2,Apply the concepts of Computer Networks to solve academic problems.,70.0,68.0,2.0,Below Target
+ECE101_LO1,LO1,Understand the fundamental concepts of Digital Electronics.,70.0,79.0,-9.0,Meets Target
+ECE101_LO2,LO2,Apply the concepts of Digital Electronics to solve academic problems.,70.0,74.0,-4.0,Meets Target
+ECE102_LO1,LO1,Understand the fundamental concepts of Communication Systems.,70.0,73.0,-3.0,Meets Target
+ECE102_LO2,LO2,Apply the concepts of Communication Systems to solve academic problems.,70.0,70.0,0.0,Meets Target
+ECE103_LO1,LO1,Understand the fundamental concepts of Microprocessors.,70.0,68.0,2.0,Below Target
+ECE103_LO2,LO2,Apply the concepts of Microprocessors to solve academic problems.,70.0,65.0,5.0,Below Target

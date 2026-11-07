@@ -1,0 +1,10 @@
+course_id,course_name,mapped_outcome_count,average_attainment,average_target,effectiveness_score,effectiveness_status
+AID101,Machine Learning,2,82.0,70.0,82.0,Meeting Target
+AID102,Data Analytics,2,86.0,70.0,86.0,Meeting Target
+AID103,Artificial Intelligence,2,73.0,70.0,73.0,Meeting Target
+CSE101,Data Structures,2,80.0,70.0,80.0,Meeting Target
+CSE102,Database Management Systems,2,74.0,70.0,74.0,Meeting Target
+CSE103,Computer Networks,2,69.0,70.0,69.0,Needs Improvement
+ECE101,Digital Electronics,2,76.5,70.0,76.5,Meeting Target
+ECE102,Communication Systems,2,71.5,70.0,71.5,Meeting Target
+ECE103,Microprocessors,2,66.5,70.0,66.5,Needs Improvement

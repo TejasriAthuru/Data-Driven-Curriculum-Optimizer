@@ -1,0 +1,10 @@
+course_id,course_name,department_id,average_attendance,attendance_status
+AID101,Machine Learning,D02,85.5,Satisfactory
+AID102,Data Analytics,D02,83.75,Satisfactory
+AID103,Artificial Intelligence,D02,83.25,Satisfactory
+CSE101,Data Structures,D01,86.0,Satisfactory
+CSE102,Database Management Systems,D01,84.75,Satisfactory
+CSE103,Computer Networks,D01,85.0,Satisfactory
+ECE101,Digital Electronics,D03,85.88,Satisfactory
+ECE102,Communication Systems,D03,85.5,Satisfactory
+ECE103,Microprocessors,D03,85.38,Satisfactory

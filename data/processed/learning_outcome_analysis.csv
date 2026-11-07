@@ -1,0 +1,19 @@
+mapping_id,course_id,lo_id,attainment_percentage,lo_code,lo_description,target_attainment,course_name,department_id,attainment_gap,attainment_status
+1,CSE101,CSE101_LO1,82.00,LO1,Understand the fundamental concepts of Data Structures.,70.00,Data Structures,D01,-12.00,Target Achieved
+2,CSE101,CSE101_LO2,78.00,LO2,Apply the concepts of Data Structures to solve academic problems.,70.00,Data Structures,D01,-8.00,Target Achieved
+3,CSE102,CSE102_LO1,76.00,LO1,Understand the fundamental concepts of Database Management Systems.,70.00,Database Management Systems,D01,-6.00,Target Achieved
+4,CSE102,CSE102_LO2,72.00,LO2,Apply the concepts of Database Management Systems to solve academic problems.,70.00,Database Management Systems,D01,-2.00,Target Achieved
+5,CSE103,CSE103_LO1,70.00,LO1,Understand the fundamental concepts of Computer Networks.,70.00,Computer Networks,D01,0.00,Target Achieved
+6,CSE103,CSE103_LO2,68.00,LO2,Apply the concepts of Computer Networks to solve academic problems.,70.00,Computer Networks,D01,2.00,Below Target
+7,AID101,AID101_LO1,84.00,LO1,Understand the fundamental concepts of Machine Learning.,70.00,Machine Learning,D02,-14.00,Target Achieved
+8,AID101,AID101_LO2,80.00,LO2,Apply the concepts of Machine Learning to solve academic problems.,70.00,Machine Learning,D02,-10.00,Target Achieved
+9,AID102,AID102_LO1,88.00,LO1,Understand the fundamental concepts of Data Analytics.,70.00,Data Analytics,D02,-18.00,Target Achieved
+10,AID102,AID102_LO2,84.00,LO2,Apply the concepts of Data Analytics to solve academic problems.,70.00,Data Analytics,D02,-14.00,Target Achieved
+11,AID103,AID103_LO1,75.00,LO1,Understand the fundamental concepts of Artificial Intelligence.,70.00,Artificial Intelligence,D02,-5.00,Target Achieved
+12,AID103,AID103_LO2,71.00,LO2,Apply the concepts of Artificial Intelligence to solve academic problems.,70.00,Artificial Intelligence,D02,-1.00,Target Achieved
+13,ECE101,ECE101_LO1,79.00,LO1,Understand the fundamental concepts of Digital Electronics.,70.00,Digital Electronics,D03,-9.00,Target Achieved
+14,ECE101,ECE101_LO2,74.00,LO2,Apply the concepts of Digital Electronics to solve academic problems.,70.00,Digital Electronics,D03,-4.00,Target Achieved
+15,ECE102,ECE102_LO1,73.00,LO1,Understand the fundamental concepts of Communication Systems.,70.00,Communication Systems,D03,-3.00,Target Achieved
+16,ECE102,ECE102_LO2,70.00,LO2,Apply the concepts of Communication Systems to solve academic problems.,70.00,Communication Systems,D03,0.00,Target Achieved
+17,ECE103,ECE103_LO1,68.00,LO1,Understand the fundamental concepts of Microprocessors.,70.00,Microprocessors,D03,2.00,Below Target
+18,ECE103,ECE103_LO2,65.00,LO2,Apply the concepts of Microprocessors to solve academic problems.,70.00,Microprocessors,D03,5.00,Below Target

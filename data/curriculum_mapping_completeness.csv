@@ -1,0 +1,10 @@
+course_id,course_name,expected_outcomes,mapped_outcomes,unmapped_outcomes,mapping_completeness_percentage
+AID101,Machine Learning,2,2,0,100.0
+AID102,Data Analytics,2,2,0,100.0
+AID103,Artificial Intelligence,2,2,0,100.0
+CSE101,Data Structures,2,2,0,100.0
+CSE102,Database Management Systems,2,2,0,100.0
+CSE103,Computer Networks,2,2,0,100.0
+ECE101,Digital Electronics,2,2,0,100.0
+ECE102,Communication Systems,2,2,0,100.0
+ECE103,Microprocessors,2,2,0,100.0

@@ -1,0 +1,9 @@
+{
+    "attendance_threshold": 75.0,
+    "performance_threshold": 50.0,
+    "lo_attainment_target": 70.0,
+    "risk_thresholds": {
+        "low_risk_min": 70.0,
+        "watchlist_min": 50.0
+    }
+}

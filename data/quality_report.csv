@@ -1,0 +1,17 @@
+file_name,status,rows,columns,missing_cells,missing_percentage,duplicate_rows,duplicate_columns,empty_columns,issues
+attendance_analysis.csv,Pass,9,5,0,0.0,0,0,0,No basic quality issues detected.
+attendance_performance_analysis.csv,Pass,180,4,0,0.0,0,0,0,No basic quality issues detected.
+course_performance_analysis.csv,Pass,9,12,0,0.0,0,0,0,No basic quality issues detected.
+course_risk_analysis.csv,Pass,9,7,0,0.0,0,0,0,No basic quality issues detected.
+course_summary.csv,Pass,9,11,0,0.0,0,0,0,No basic quality issues detected.
+curriculum_effectiveness.csv,Pass,9,13,0,0.0,0,0,0,No basic quality issues detected.
+department_analysis.csv,Pass,3,6,0,0.0,0,0,0,No basic quality issues detected.
+final_recommendations.csv,Pass,11,8,0,0.0,0,0,0,No basic quality issues detected.
+learning_outcome_analysis.csv,Pass,18,11,0,0.0,0,0,0,No basic quality issues detected.
+learning_outcome_analysis_final.csv,Pass,18,12,0,0.0,0,0,0,No basic quality issues detected.
+performance_distribution.csv,Pass,2,3,0,0.0,0,0,0,No basic quality issues detected.
+recommendation_summary.csv,Pass,8,2,0,0.0,0,0,0,No basic quality issues detected.
+recommendations.csv,Pass,4,5,0,0.0,0,0,0,No basic quality issues detected.
+risk_distribution.csv,Pass,2,3,0,0.0,0,0,0,No basic quality issues detected.
+student_course_performance.csv,Pass,180,14,0,0.0,0,0,0,No basic quality issues detected.
+student_performance_analysis.csv,Pass,60,9,0,0.0,0,0,0,No basic quality issues detected.

@@ -1,0 +1,10 @@
+course_id,course_name,total_students,average_performance,average_attendance,at_risk_students,risk_percentage
+AID101,Machine Learning,20,73.63,85.5,0,0.0
+AID102,Data Analytics,20,79.67,83.75,1,5.0
+AID103,Artificial Intelligence,20,70.74,83.25,0,0.0
+CSE101,Data Structures,20,75.29,86.0,0,0.0
+CSE102,Database Management Systems,20,71.33,84.75,1,5.0
+CSE103,Computer Networks,20,68.34,85.0,1,5.0
+ECE101,Digital Electronics,20,75.28,85.88,0,0.0
+ECE102,Communication Systems,20,71.12,85.5,0,0.0
+ECE103,Microprocessors,20,67.38,85.38,1,5.0

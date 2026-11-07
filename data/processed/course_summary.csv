@@ -1,0 +1,10 @@
+course_id,course_name,credits,department_id,faculty_id,semester,average_attendance,average_assessment_score,average_feedback_rating,students_enrolled,students_at_risk
+AID101,Machine Learning,4.0,D02,F003,5,85.5,73.63,4.0,20,0
+AID102,Data Analytics,4.0,D02,F004,5,83.75,79.67,4.03,20,1
+AID103,Artificial Intelligence,3.0,D02,F003,5,83.25,70.74,4.05,20,0
+CSE101,Data Structures,4.0,D01,F001,5,86.0,75.29,4.04,20,0
+CSE102,Database Management Systems,4.0,D01,F002,5,84.75,71.33,3.97,20,1
+CSE103,Computer Networks,3.0,D01,F001,5,85.0,68.34,4.05,20,1
+ECE101,Digital Electronics,4.0,D03,F005,5,85.88,75.28,3.91,20,0
+ECE102,Communication Systems,4.0,D03,F006,5,85.5,71.12,3.86,20,0
+ECE103,Microprocessors,3.0,D03,F005,5,85.38,67.38,4.03,20,1

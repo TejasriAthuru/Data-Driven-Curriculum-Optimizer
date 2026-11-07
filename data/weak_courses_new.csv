@@ -1,0 +1,3 @@
+course_id,course_name,mapped_outcome_count,average_attainment,average_target,effectiveness_score,effectiveness_status
+ECE103,Microprocessors,2,66.5,70.0,66.5,Needs Improvement
+CSE103,Computer Networks,2,69.0,70.0,69.0,Needs Improvement

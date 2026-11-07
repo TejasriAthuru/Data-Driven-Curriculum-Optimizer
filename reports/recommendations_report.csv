@@ -1,0 +1,12 @@
+recommendation_id,source,course_id,course_name,issue,evidence,recommendation,priority
+1,Student Risk,AID102,Data Analytics,Students require additional academic attention,1 out of 20 students are marked at risk (5.00%).,Provide targeted academic support and monitor student performance in this course.,Medium
+2,Student Watchlist,ALL,Multiple Courses,Students have course-level risk indicators,4 students have at least one course marked At Risk.,Monitor these students and provide course-specific academic support where required.,Medium
+3,Student Risk,CSE102,Database Management Systems,Students require additional academic attention,1 out of 20 students are marked at risk (5.00%).,Provide targeted academic support and monitor student performance in this course.,Medium
+4,Course Performance,CSE103,Computer Networks,Moderate assessment performance,Average assessment score is 68.34%.,Review challenging topics and provide additional learning resources and practice.,Medium
+5,Learning Outcome,CSE103,Computer Networks,LO1 below target attainment,Calculated attainment is 68.34% against target 70.00%.,Review learning activities and assessment alignment for the identified learning outcome.,Medium
+6,Learning Outcome,CSE103,Computer Networks,LO2 below target attainment,Calculated attainment is 68.34% against target 70.00%.,Review learning activities and assessment alignment for the identified learning outcome.,Medium
+7,Student Risk,CSE103,Computer Networks,Students require additional academic attention,1 out of 20 students are marked at risk (5.00%).,Provide targeted academic support and monitor student performance in this course.,Medium
+8,Course Performance,ECE103,Microprocessors,Moderate assessment performance,Average assessment score is 67.38%.,Review challenging topics and provide additional learning resources and practice.,Medium
+9,Learning Outcome,ECE103,Microprocessors,LO1 below target attainment,Calculated attainment is 67.38% against target 70.00%.,Review learning activities and assessment alignment for the identified learning outcome.,Medium
+10,Learning Outcome,ECE103,Microprocessors,LO2 below target attainment,Calculated attainment is 67.38% against target 70.00%.,Review learning activities and assessment alignment for the identified learning outcome.,Medium
+11,Student Risk,ECE103,Microprocessors,Students require additional academic attention,1 out of 20 students are marked at risk (5.00%).,Provide targeted academic support and monitor student performance in this course.,Medium
